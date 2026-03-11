@@ -1,0 +1,20 @@
+Package: mahiRobSet
+Type: Package
+Title: The Robustness Set Operating Models for mahiMSE
+Version: 0.1.0
+Authors@R: c(
+    person(
+      "Tom", "Carruthers",
+      email = "tom@bluematterscience.com",
+      role = c("aut", "cre")
+    )
+  )
+Description: OpenMSE operating model objects for running MSE simulations for mahi. 
+License: GPL-3
+Encoding: UTF-8
+LazyData: true
+LazyLoad: true
+RoxygenNote: 7.3.3
+VignetteBuilder: knitr
+Depends: 
+    openMSE
