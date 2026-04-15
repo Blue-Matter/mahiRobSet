@@ -1,7 +1,7 @@
 Package: mahiRobSet
 Type: Package
 Title: The Robustness Set Operating Models for mahiMSE
-Version: 0.1.0
+Version: 0.2.0
 Authors@R: c(
     person(
       "Tom", "Carruthers",
