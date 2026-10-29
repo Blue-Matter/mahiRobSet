@@ -1,7 +1,7 @@
 Package: mahiRobSet
 Type: Package
 Title: The Robustness Set Operating Models for mahiMSE
-Version: 0.2.4
+Version: 0.9.9
 Authors@R: c(
     person(
       "Tom", "Carruthers",
@@ -14,7 +14,7 @@ License: GPL-3
 Encoding: UTF-8
 LazyData: true
 LazyLoad: true
-RoxygenNote: 7.3.3
 VignetteBuilder: knitr
 Depends: 
     openMSE
+Config/roxygen2/version: 8.0.0
